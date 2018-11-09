@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration max_messages_per_file="75" standards="MySource;PEAR;PHPCS;PSR1;PSR2;RS;Squiz;VVZend2;Zend" tool_path="$PROJECT_DIR$/../../whg-desktop-check24/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+{
+  "name": "es2015-bundling-rollup",
+  "version": "1.0.0",
+  "devDependencies": {
+    "rollup": "^0.67.0",
+    "rollup-plugin-buble": "^0.19.4"
+  },
+  "scripts": {
+    "bundle": "rollup -c --format esm"
+  },
+  "author": ""
+}
